@@ -33,31 +33,22 @@ Tanto o Administrador quanto o usuário podem buscar os pratos por nome e/ou ing
 - [React Router Dom](https://react-icons.github.io/react-icons/)
 ---
 
-
-## 🚀 Como executar o projeto.
-
-Este projeto é divido em duas partes:
-1. Backend (API) 
-2. Frontend 
-
-💡 O Backend deve estar rodando em sua máquina para que o frontend seja reenderizado.
-)
-
-### Pré-requisitos
+### Pré-requisitos e como executar o projeto
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+- [Node.js](https://nodejs.org/en/)
+- [VSCode](https://code.visualstudio.com/)
 
 
 ### 🚧 Executando o Back-end
 
 ```bash
 # Faça download do repositório
-$ https://github.com/mewerton/FoodExplorer_BackEnd
+$ https://github.com/Lcsalvs/foodexplorer-backend
 
 # Abra seu VS CODE e em seguida abra a pasta do Backend para abrir o projeto
-$ cd FoodExplorer_BackEnd
+$ cd food-explorer-backend
 
 # Instale as dependências necessárias
 $ npm install
@@ -65,7 +56,7 @@ $ npm install
 # Agora inicie o servidor do BackEnd
 $ npm run dev
 
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+# O servidor inciará na Porta: 3333
 ```
 ---
 

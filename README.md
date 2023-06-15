@@ -46,13 +46,13 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 # Faça download do repositório
 $ https://github.com/Lcsalvs/foodexplorer-backend
 
-# Abra seu VS CODE e em seguida abra a pasta do Backend para abrir o projeto
+# Abra seu VS CODE e em seguida abra a pasta do Back-end para abrir o projeto
 $ cd food-explorer-backend
 
 # Instale as dependências necessárias
 $ npm install
 
-# Agora inicie o servidor do Back-end
+# Agora inicie o servidor Back-end
 $ npm run dev
 
 # O servidor inciará na Porta: 3333
@@ -61,7 +61,7 @@ $ npm run dev
 ---
 O Back-end foi hospedado diretamente no Render. O Frontend, no Netlify.
 
----
+
 
 Obs.: Por estar hospedado em um serviço gratuito, o Back-end "hiberna" após 15 minutos sem utilização.
 <br>

@@ -52,20 +52,13 @@ $ cd food-explorer-backend
 # Instale as dependências necessárias
 $ npm install
 
-# Agora inicie o servidor do BackEnd
+# Agora inicie o servidor do Back-end
 $ npm run dev
 
 # O servidor inciará na Porta: 3333
 ```
 
 ---
-
-## Deploy do projeto.
-
-https://foodexplorer-mw.netlify.app/
-
----
-
 O Back-end foi hospedado diretamente no Render. O Frontend, no Netlify.
 
 ---
